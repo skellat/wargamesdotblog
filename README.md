@@ -1,3 +1,3 @@
 # wargamesdotblog
 
-This is the attempt at hosting a site using Cloudflare Pages.  What could possibly go wrong?
+This is the attempt utilizing Cloudflare Pages to host a site.  What could possibly go wrong?
